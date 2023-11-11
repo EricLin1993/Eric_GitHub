@@ -1,5 +1,5 @@
 # Eric_GitHub
-![Alt text](GA.jpg)
+![Alt text](GA.png)
 LRSpILT is a Low-Rank and Sparse regularized ILT for high-resolution DOSY recosntruction. 
 Our program is based on MATLAB2016b. Click xxx_demo.m to implement corresponding sample reconstruction.
 If you use our code ,please cite the paper:
